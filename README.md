@@ -1,4 +1,3 @@
-
 # 📊 Customer Order Analysis using SQL
 
 ## 🔍 Overview
