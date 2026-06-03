@@ -25,23 +25,12 @@ This project analyzes customer purchasing behavior and sales trends using SQL on
 - schema.sql → Table creation  
 - data.sql → Data insertion  
 - analysis.sql → SQL queries for insights  
+### 📊 Key Insights from SQL Analysis
 
-## 📊 Sample Outputs
-
-### Revenue by City
-![Revenue](revenue_by_city.png)
-
-### Top Customers
-![Top Customers](top_customers.png)
-
-### Customer Ranking
-![Ranking](customer_ranking.png)
-
-### Monthly Revenue
-![Monthly](monthly_revenue.png)
-
-### Best Products
-![Products](best_products.png)
-
+* **Revenue by City:** Identified the top-performing geographic regions driving the highest sales volume.
+* **Top Customers:** Segmented and highlighted the highest-spending client profiles.
+* **Customer Ranking:** Applied dense ranking functions to order clients based on purchase frequency.
+* **Monthly Revenue:** Tracked month-over-month growth patterns and seasonal sales spikes.
+* **Best Products:** Isolated the inventory items generating the highest overall profit margins.
 ## 💻 Tools Used
 - MySQL Workbench
